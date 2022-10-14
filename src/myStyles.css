@@ -37,14 +37,6 @@
     color: #fff;
 }
 
-/* .footer-content {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-} */
-
 .navbar {
     background: black;
     height: 80px;
@@ -103,6 +95,7 @@
   position: absolute;
   margin-top: 0;
   margin-left: 35%;
+  color: #e80a6e;
 }
   
 .aside {
